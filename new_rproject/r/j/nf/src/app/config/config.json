@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "root",
+    "database": "bermad",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "PORT": 3000,
+    "SocketURL": "http://localhost:3001"
+  },
+  "test": {
+    "username": "bermad",
+    "password": "vKro7b9asm9uxJcibCQI",
+    "database": "bermad",
+    "host": "45.79.123.10",
+    "dialect": "mysql",
+    "PORT": 3000,
+    "port": 5432,
+    "SocketURL": "https://bermad.disctesting.in"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

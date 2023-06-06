@@ -1,0 +1,4 @@
+/node_modules
+/app/config/db.config.js
+app/config/db.config.js
+server.js
